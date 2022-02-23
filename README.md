@@ -2,4 +2,4 @@
 
 Completed in July 2021 through YCDSB Virtual School. Earned a 97 grade.
 
-second test
+Programmed using Java through CodeHS.
