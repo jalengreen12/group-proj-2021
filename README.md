@@ -1,3 +1,2 @@
-hello there!
+# ICS3U Course Group Project
 
-test
